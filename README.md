@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @GeorgeMisael
+- 👋 Hi, I’m George Misael
 - 👀 I’m interested in Website DevelopmentH
 - 🌱 I’m currently learning frontend and backend developer
 - 📫 How to reach me georgemisaelgantume@gmail.com
